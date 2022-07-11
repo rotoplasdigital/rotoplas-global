@@ -1,0 +1,14 @@
+#quienes-somos-header {
+    height: 750px;
+    background: #002554;
+    color: #fff;
+    background: url(http://127.0.0.1:5500/images/quienes-somos/nosotros-banner-01.jpg) no-repeat;
+}
+
+.nosotros-nodo {
+    box-sizing: border-box;
+    padding: 1rem;
+    width: 180px;
+    text-align: center;
+    transition: all ease .3s;
+}

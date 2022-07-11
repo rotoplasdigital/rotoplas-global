@@ -1,0 +1,59 @@
+#nuestra-historia-header {
+    height: 750px;
+    background: #002554;
+    color: #fff;
+    background: url(http://127.0.0.1:5500/images/historia/historia-banner.jpg) no-repeat;
+}
+
+.historia-nodo {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.historia-nodo-col-izq {
+    box-sizing: border-box;
+    width: 45%;
+    text-align: right;
+    padding: 2rem 1rem;
+    overflow: hidden;
+}
+.historia-nodo-col-izq img {
+    width: 100%;
+}
+
+.historia-nodo-col-cen {
+    box-sizing: border-box;
+    width: 10%;
+    padding: 2rem 0;
+    background: aliceblue;
+    background: linear-gradient(270deg, #ffffff 45%, #002554 45%, #002554 54%, #ffffff 54%);
+}
+
+.historia-nodo-col-der {
+    box-sizing: border-box;
+    width: 45%;
+    text-align: left;
+    padding: 2rem 1rem;
+    overflow: hidden;
+}
+.historia-nodo-col-der img {
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .historia-nodo-col-izq {
+        padding-left: 1rem;
+    }
+    .historia-nodo-col-der {
+        padding-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .historia-nodo .fs20 {
+        font-size: 16px !important;
+    }
+}
