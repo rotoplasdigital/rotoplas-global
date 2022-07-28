@@ -69,13 +69,14 @@ hr:not([size]) {
 		height: 70px;
 		transition: all ease .3s;
 	}
-
+	#navegacion-region,
 	#navegacion-idioma {
 		background: transparent;
 		color: #fff;
 		border-radius: 2rem;
 		padding: 0.25rem 1rem;
 	}
+	#navegacion-region option,
 	#navegacion-idioma option {
 		background: #002554;
 		color: #fff;
@@ -156,6 +157,7 @@ hr:not([size]) {
 		padding: 2rem 5% !important;
 		font-size: 14px;
 		line-height: normal;
+		background: #002554;
 	}
 	footer h2 {
 		font-family: 'rotoplas-light';
@@ -165,6 +167,7 @@ hr:not([size]) {
 	footer a {
 		color: #fff;
 		transition: all ease .3s;
+		padding-left: .5rem;
 	}
 	footer a:hover {
 		color: #00AFD7;

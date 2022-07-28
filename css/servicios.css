@@ -1,0 +1,55 @@
+#header {
+	height: 750px;
+	background: #002554;
+	color: #fff;
+	background: url(http://127.0.0.1:5500/images/soluciones-servicios/fondo.jpg) no-repeat;
+	background-size: cover;
+}
+
+.tabs {
+	background-color: #009CDE;
+	color: #fff;
+}
+
+.tab {
+    cursor: pointer;
+    padding: 1.3rem;
+    transition: all ease .3s;
+}
+.tab:hover {
+    background: #236192;
+}
+.tab-selected {
+    background-color: #002554;
+}
+
+.plantas-nodo {
+	box-sizing: border-box;
+    width: 200px;
+    padding: 1em;
+	text-align: center;
+}
+.plantas-nodo img {
+	width: 100%;
+}
+.plantas-nodo p {
+	color: #666;
+	margin-top: 1rem;
+}
+
+@media screen and (max-width: 576px) {
+    .plantas-nodo {
+        width:150px;
+    }
+}
+
+.bebederos-nodo {
+    box-sizing: border-box;
+    text-align: center;
+    /* width: 200px; */
+    padding: 1rem;
+}
+.bebederos-nodo img {
+    height: 160px;
+    margin-bottom: 1rem;
+}

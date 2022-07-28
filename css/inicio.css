@@ -124,7 +124,7 @@ width: 100%;
 text-align: center;
 }
 .inicio-slider-locations a {
-width: 174px;
+width: 180px;
 display: inline-block;
 color: #fff;
 border: 2px solid #fff;
@@ -183,6 +183,11 @@ margin: 1rem 0;
 }
 .home-slider-nodo-contenido a {
 color: #ffffff;
+}
+
+#home-slider .slick-dots {
+  position: relative;
+  margin: 1rem 0;
 }
 
 /* slider 2 */

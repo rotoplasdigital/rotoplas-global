@@ -1,7 +1,6 @@
-<a href="#" class="navbar-brand">
+<a href="/" class="navbar-brand">
 	<img id="navegacion-logo" src="http://127.0.0.1:5500/images/rotoplas_logo_blanco_azul.svg" alt="Logotipo Rotoplas" title="Rotoplas">
 </a>
-
 <button 
 	class="navbar-toggler" 
 	type="button" 
@@ -12,34 +11,56 @@
 	aria-label="Toggle navigation">
 	<span class="navbar-toggler-icon"></span>
 </button>
-
 <div class="collapse navbar-collapse flex-column" id="toggleMobileMenu">
 	<ul class="navegacion-primera-linea navbar-nav ms-auto text-center">
 		<li class="nav-item mx-1">
-			<span>🌐</span>
-			<select class="form-select d-inline w-auto mb-3 mb-lg-0" id="navegacion-idioma">
-				<option value="0">Estás en nuestro sitio global</option>
-				<option value="rtp-mx">México</option>
-				<option value="rtp-ca">Centroamérica</option>
-				<option value="rtp-ar">Argentina</option>
-				<option value="rtp-pe">Perú</option>
-				<option value="rtp-br">Brasil</option>
-				<option value="rtp-us">Usa</option>
+			<span>
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 20px; fill: #fff;" class="me-1"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM57.71 192.1L67.07 209.4C75.36 223.9 88.99 234.6 105.1 239.2L162.1 255.7C180.2 260.6 192 276.3 192 294.2V334.1C192 345.1 198.2 355.1 208 359.1C217.8 364.9 224 374.9 224 385.9V424.9C224 440.5 238.9 451.7 253.9 447.4C270.1 442.8 282.5 429.1 286.6 413.7L289.4 402.5C293.6 385.6 304.6 371.1 319.7 362.4L327.8 357.8C342.8 349.3 352 333.4 352 316.1V307.9C352 295.1 346.9 282.9 337.9 273.9L334.1 270.1C325.1 261.1 312.8 255.1 300.1 255.1H256.1C245.9 255.1 234.9 253.1 225.2 247.6L190.7 227.8C186.4 225.4 183.1 221.4 181.6 216.7C178.4 207.1 182.7 196.7 191.7 192.1L197.7 189.2C204.3 185.9 211.9 185.3 218.1 187.7L242.2 195.4C250.3 198.1 259.3 195 264.1 187.9C268.8 180.8 268.3 171.5 262.9 165L249.3 148.8C239.3 136.8 239.4 119.3 249.6 107.5L265.3 89.12C274.1 78.85 275.5 64.16 268.8 52.42L266.4 48.26C262.1 48.09 259.5 48 256 48C163.1 48 84.4 108.9 57.71 192.1L57.71 192.1zM437.6 154.5L412 164.8C396.3 171.1 388.2 188.5 393.5 204.6L410.4 255.3C413.9 265.7 422.4 273.6 433 276.3L462.2 283.5C463.4 274.5 464 265.3 464 256C464 219.2 454.4 184.6 437.6 154.5H437.6z"/></svg>
+			</span>
+			<select id="navegacion-region" class="form-select d-inline w-auto mb-3 mb-lg-0">
+				<option data-i18n="menu-region-1" value="0">Estás en nuestro sitio global</option>
+				<option data-i18n="menu-region-2" value="rtp-mx">México</option>
+				<option data-i18n="menu-region-3" value="rtp-ca">Centroamérica</option>
+				<option data-i18n="menu-region-4" value="rtp-ar">Argentina</option>
+				<option data-i18n="menu-region-5" value="rtp-pe">Perú</option>
+				<option data-i18n="menu-region-6" value="rtp-br">Brasil</option>
+				<option data-i18n="menu-region-7" value="rtp-us">Usa</option>
 			</select>
 		</li>
-		<li class="nav-item mx-1"><a class="nav-link navegacion-extra mb-3 mb-lg-0" href="#">Únete al equipo</a></li>
-		<li class="nav-item mx-1"><a class="nav-link navegacion-extra mb-3 mb-lg-0" href="http://127.0.0.1:5500/contacto/">Contacto</a></li>
+		<li class="nav-item mx-1">
+			<a data-i18n="menu-unete" class="nav-link navegacion-extra mb-3 mb-lg-0" href="https://rotoplas.com/careers/" target="_blank">Únete al equipo</a>
+		</li>
+		<li class="nav-item mx-1">
+			<a data-i18n="menu-contacto" class="nav-link navegacion-extra mb-3 mb-lg-0" href="http://127.0.0.1:5500/contacto/">Contacto</a>
+		</li>
+		<li class="nav-item mx-1">
+			<select class="form-select d-inline w-auto mb-3 mb-lg-0" id="navegacion-idioma">
+				<option data-i18n="menu-lenguaje-1" value="es">Español</option>
+				<option data-i18n="menu-lenguaje-2" value="en">English</option>
+				<!-- <option data-i18n="menu-lenguaje-3" value="po">Português</option> -->
+			</select>
+		</li>
 	</ul>
 	<ul class="navegacion-segunda-linea navbar-nav ms-auto text-center mt-2">
 		<li class="nav-item dropdown">
-			<a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Nosotros</a>
+			<a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" data-i18n="menu-nosotros">Nosotros</a>
 			<ul class="dropdown-menu">
-				<li><a class="dropdown-item" href="http://127.0.0.1:5500/quienes-somos/">¿Quiénes Somos?</a></li>
-				<li><a class="dropdown-item" href="http://127.0.0.1:5500/nuestra-historia-en-argentina/">Nuestra historia en Argentina</a></li>
+				<li><a class="dropdown-item" href="http://127.0.0.1:5500/nuestra-historia/" data-i18n="menu-historia">Nuestra historia</a></li>
+				<li><a class="dropdown-item" href="http://127.0.0.1:5500/compromisos-y-certificaciones/" data-i18n="menu-compromisos">Compromisos y certificaciones</a></li>
+				<li><a class="dropdown-item" href="http://127.0.0.1:5500/quienes-somos/" data-i18n="menu-quienes">¿Quiénes Somos?</a></li>
 			</ul>
 		</li>
-		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="http://127.0.0.1:5500/nuestras-marcas/">Nuestras Marcas</a></li>
-		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="http://127.0.0.1:5500/sustentabilidad/">Sustentabilidad</a></li>
-		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="https://rotoplas.com/inversionistas/" target="_blank">Inversionistas</a></li>
+		<li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" data-i18n="menu-soluciones">Soluciones</a>
+			<ul class="dropdown-menu">
+				<li><a class="dropdown-item" href="http://127.0.0.1:5500/productos/" data-i18n="menu-productos">Productos</a></li>
+				<li><a class="dropdown-item" href="http://127.0.0.1:5500/servicios/" data-i18n="menu-servicios">Servicios</a></li>
+			</ul>
+		</li>
+		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="http://127.0.0.1:5500/nuestras-marcas/" data-i18n="menu-marcas">Nuestras Marcas</a></li>
+		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="http://127.0.0.1:5500/nuestras-marcas/" data-i18n="menu-sala">Sala de prensa</a></li>
+		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="https://rotoplas.com/sustentabilidad/" target="_blank" data-i18n="menu-sustentabilidad">Sustentabilidad</a></li>
+		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="https://rotoplas.com/inversionistas/" target="_blank" data-i18n="menu-inversionistas">Inversionistas</a></li>
+		<li class="nav-item mx-xl-1"><a class="nav-link menu-color-principal" href="https://innwai.rotoplas.com" target="_blank" data-i18n="menu-innovacion">Innovación</a></li>
 	</ul>
 </div>

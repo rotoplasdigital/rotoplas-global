@@ -1,0 +1,69 @@
+#header {
+    height: 750px;
+    background: #002554;
+    color: #fff;
+    background: url(http://127.0.0.1:5500/images/nuestras-marcas/fondo-nuestras-marcas.jpg) no-repeat;
+    background-size: cover;
+}
+
+/* pais */
+.producto-pais-wrapper {
+    background: #009CDE;
+    margin-bottom: 0.5rem;
+}
+.producto-pais {
+    margin-right: 5px;
+    cursor: pointer;
+    color: #fff;
+    padding: 1.3rem;
+    transition: all ease .3s;
+}
+.producto-pais:hover {
+    background: #236192;
+}
+.producto-pais-seleccion {
+    background-color: #002554;
+}
+
+/* unidad */
+.tab {
+    cursor: pointer;
+    /* margin-right: 1rem; */
+    padding: 1.3rem;
+    transition: all ease .3s;
+    /* border-bottom: 2px solid rgba(255, 255, 255, 0); */
+    color: #002554;
+}
+.tab:hover {
+    background: #002554;
+    color: #fff;
+}
+.tab-selected {
+    background-color: #236192;
+    color: #fff;
+    /* border-bottom: 2px solid #fff; */
+}
+
+/* productos */
+.productos-nodo {
+    box-sizing: border-box;
+    /* display: none; */
+    padding: 1rem;
+    width: 200px;
+    vertical-align: top;
+    text-align: center;
+
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.productos-nodo img {
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 576px) {
+    .productos-nodo {
+        width:150px;
+    }
+}

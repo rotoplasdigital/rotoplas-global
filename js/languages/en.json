@@ -1,0 +1,307 @@
+{
+	"@metadata": {
+		"authors": [
+            "DML",
+			"Jorge Arguelles"
+		],
+		"last-updated": "2022-07-20",
+		"locale": "en",
+		"message-documentation": "qqq",
+		"AnotherMetadata": "AnotherMedatadataValue"
+	},
+	
+
+	
+	"// MENU":  "==============================================================",
+	"menu-region-1": "You are at our global site",
+	"menu-region-2": "Mexico",
+	"menu-region-3": "Central America",
+	"menu-region-4": "Argentina",
+	"menu-region-5": "Peru",
+	"menu-region-6": "Brazil",
+	"menu-region-7": "US",
+
+	"menu-unete": "Join the team",
+
+	"menu-contacto": "Contact",
+
+	"menu-lenguaje-1":"Español",
+	"menu-lenguaje-2":"English",
+	"menu-lenguaje-3":"Português",
+
+	"menu-nosotros":"Us",
+	"menu-historia":"Our History",
+	"menu-compromisos":"Commitments and Certifications",
+	"menu-quienes":"Who we are?",
+
+	"menu-soluciones":"Solutions",
+	"menu-productos":"Products",
+	"menu-servicios":"Services",
+
+	"menu-marcas":"Our Brands",
+	"menu-sala":"Press Room",
+	"menu-sustentabilidad":"Sustainability",
+	"menu-inversionistas":"Investors",
+	"menu-innovacion":"Innovation",
+
+	"menu-direccion":"Address: Torre Virreyes, Calle Pedregal #24 Piso 19. Col. Molino del Rey; Delegación Miguel Hidalgo, C.P. 11040, Ciudad de México, México",
+
+	"menu-presencia":"Global presence",
+	"menu-navega":"Browse the site",
+	"menu-siguenos":"Follow us",
+
+	"menu-politica":"Privacy Policy",
+	"menu-privacidad":"Security of the information",
+
+
+
+	"// EXPLORA":  "==============================================================",
+	"explora-titulo":"Explore these sections that may be of interest to you",
+	"explora-historia":"Our history",
+	"explora-compromisos":"Commitments and<br>certifications",
+
+
+
+	"// INICIO":  "==============================================================",
+	"inicio-titulo":"Rotoplas Global - Inicio",
+
+	"inicio-slider-1-1-titulo":"Grupo Rotoplas, a water solutions company",
+	"inicio-slider-1-1-texto":"For more than four decades, we have had the mission of bringing more and better water to people, to contribute to improve people’s quality of life; therefore, day by day, we focus on creating innovative and sustainable solutions.",
+
+	"inicio-slider-1-2-titulo":"To be sustainable to guarantee access to water for future generations",
+	"inicio-slider-1-2-texto":"To be sustainable means: to contribute to bringing more and better water, creating economic, social, and environmental value, through our solutions.",
+	
+	"inicio-slider-1-3-titulo":"We constantly innovate our solutions to make the best use of every drop",
+	"inicio-slider-1-3-texto":"Through research, technology, and collaboration, we create water solutions that help solve water problems in the localities where we operate.",
+
+	"inicio-mas-titulo":"More and better water",
+	"inicio-mas-p1":"Our products and services position us as a global sound company and key supplier of water and sanitation, with solutions present throughout the water cycle.",
+	"inicio-mas-p2":"We Store, Convey, Purify, Treat and reintegrate this vital liquid.",
+	"inicio-mas-btn":"Learn about our solutions",
+
+	"inicio-slider-2-1-titulo":"Rotoplas, first time included in S&P Global Sustainability Yearbook 2022",
+	"inicio-slider-2-1-btn":"Learn more",
+
+
+
+	"// HISTORIA":  "==============================================================",
+	"historia-header-titulo":"A history motivated by water",
+	"historia-header-texto":"40 years ago, we innovated the way of storing water; today, we continue to generate solutions that help to care for this liquid with specifications according to the needs of each country and industry. Learn about our history:",
+
+	"historia-linea-titulo":"Our History",
+	
+	"historia-linea-1978-1":"Rotoplas is born.",
+	"historia-linea-1989-1":"The first polyethylene water tank is released.",
+	"historia-linea-1995-1":"Two product lines are marketed at 3 thousand points of sale in Mexico with 8 plants.",
+	"historia-linea-1996-1":" International expansion begins with a production plant in Guatemala.",
+	"historia-linea-1999-1":"The Research and Development Center (CID) is created and the portfolio of products (purifiers, pumps and filters) is increased.",
+	"historia-linea-2003-1":"The Tuboplus brand is launched.",
+	"historia-linea-2008-1":"The SAP ERP system starts to be implemented in all countries as part of a strategy to optimize internal processes.",
+	"historia-linea-2009-1":"Launching of Rotoplas Bio line.",
+	"historia-linea-2009-2":"The Shared Services Center is created.",
+	"historia-linea-2010-1":"The group of shareholders acquires the stake in Aqua International Partners.",
+	"historia-linea-2013-1":"School drinking fountains, water purification plants, and wastewater treatment plants are introduced to the market.",
+	"historia-linea-2014-1":"We begin trading on the Mexican Stock Exchange under the ticker AGUA.",
+	"historia-linea-2015-1":"We enter the United States market for the first time.",
+	"historia-linea-2016-1":"Talsar, S.A. in Argentina is acquired to strengthen individual solutions in the region.",
+	"historia-linea-2016-2":"Acquisition of the Chilean Advanced Innovation Center LLC, reaffirming the commitment to innovation.",
+	"historia-linea-2016-3":"IIntegration of Sytesa into Grupo Rotoplas, as part of a strategy to expand the Group’s portfolio, with the design, operation, and maintenance of water treatment and recycling plants.",
+	"historia-linea-2017-1":"Successful issuance of the first Sustainable Bond in Latin America.",
+	"historia-linea-2017-2":"Rotoplas acquires Sanzfield Technologies Inc. in Canada, to strengthen water purification technologies, ensuring quality water.",
+	"historia-linea-2017-3":"Entry into the Dow Jones’ Sustainability MILA Pacific Alliance, an initiative that seeks to measure the performance of companies that are considered the best in their class.",
+	"historia-linea-2018-1":"As part of the sustainability strategy, solar panels are acquired for the main plants in Mexico and to thus contribute to better environmental practices.",
+	"historia-linea-2018-2":"The acquisition of IPS, a leading waterflow company in Argentina, is carried out.",
+	"historia-linea-2018-3":"Launch of drinking fountain 4.0 (slim).",
+	"historia-linea-2019-1":"Appointment of Carlos Rojas Aboumrad as CEO of Rotoplas Group.",
+	"historia-linea-2019-2":"bebbia, residential and business purification service,  is formally introduced as a new experience to drink water and promote convenient and reliable lifestyles.",
+
+
+
+	"// COMPROMISOS":  "==============================================================",
+	"compromisos-head-titulo":"Commitments and Certifications",
+	"compromisos-head-texto":"In Rotoplas, our commitment to provide more and better water for all, has led us to form alliances with institutions, to become certified, and to be recognized by international organizations.",
+
+	"compromisos-miembros":">Members:",
+	"compromisos-certificaciones":"Certifications:",
+	"compromisos-reconocimientos":"Acknowledgments:",
+	"compromisos-inscritos":"Inscribed:",
+
+
+
+	"// QUIENES":  "==============================================================",
+	"quienes-head-titulo":"We are Water Solutions",
+	"quienes-head-1":"We are a company that is passionate about the care and responsible use of water, offering products and services for the storage, conveyance, purification, and treatment of water. Leaders in America and of Mexican origin, with a tradition that drives us to grow steadily and to transcend borders. For more than four decades, we have focused on creating solutions that make it easier to have more and better water.",
+	"quienes-head-2":"Our passion is to innovate and develop new technologies that allow us to provide individual water solutions with high quality service and maximum guarantee, according to the water needs of each country, industry, and client.",
+
+	"quienes-texto":"For four years, we have decided to work on our Sustainability Strategy aligned with the United Nations Sustainable Development Goals (SDGs). In this way, we contribute to SDG 6 “Clean Water and Sanitation” and SDG 9 “Industry, Innovation and Infrastructure” from the approach of the impact of water solutions and infrastructure development, beyond operating performance.",
+
+	"quienes-mision":"MISSION",
+	"quienes-mision-texto":"For people to have more and better water.",
+	"quienes-vision":"VISION",
+	"quienes-vision-texto":"To be a global benchmark company for individual and community water solutions, that bases its achievements on living the Rotoplas Way.",
+	"quienes-proposito":"PURPOSE",
+	"quienes-proposito-texto":"We exist to transform the quality of life of all by ensuring the best use of water.",
+
+	"quienes-numeralia-titulo":"Who we are",
+	"quienes-numeralia-1":"Presence in 14 countries",
+	"quienes-numeralia-2":"Product lines",
+	"quienes-numeralia-3":"Plants",
+	"quienes-numeralia-4":"Distribution Centers",
+	"quienes-numeralia-5":"Employees",
+	"quienes-numeralia-6":"Distributors",
+	"quienes-numeralia-7":"Points of sale",
+	"quienes-numeralia-8":"Points of service",
+
+	"quienes-innovacion-1":"Innovation is part of our DNA, so every year, we allocate a budget for the Research and Development area.",
+	"quienes-innovacion-2":"We are Mexico's first corporate issuer to issue the first sustainable bond, which was intended to boost water-related projects. Last year we reaffirmed our commitment to this type of action and decided to reopen the bond.",
+
+
+
+	"// MARCAS":  "==============================================================",
+	"marcas-head-title":"We are Grupo Rotoplas",
+	"marcas-head-text":"Our growth has allowed us to gradually add companies and create new brands to strengthen our value offering, consolidating ourselves as a water solutions company.",
+
+
+
+	"// PRODUCTOS":  "==============================================================",
+	"productos-head-titulo":"Water Solutions",
+	"productos-head-texto":"We offer a broad portfolio of products and services that facilitate water management and reach end users through various channels",
+
+	"productos-region-1":"Mexico",
+	"productos-region-2":"Argentina",
+	"productos-region-3":"Peru",
+	"productos-region-4":"Central America",
+
+	"productos-negocio-1":"Storage",
+	"productos-negocio-1-texto":" This line of products is designed for storage of water in large volumes, covering different supply needs.",
+
+	"productos-negocio-2":"Agro-industry",
+	"productos-negocio-2-texto":"Solutions for the field and industry in storage, transportation and conveyance of water, food, and chemicals.",
+
+	"productos-negocio-3":"Waterflow",
+	"productos-negocio-3-texto":"Hydraulic piples ensuring zero leaks by fusing the joints and making them one piece of high strength, thanks to its advanced thermofusion system. Moreover, it covers a broad range of pipes, connections, and tools to cover all the needs of a hydraulic installation in single-family, affordable-entry-level, and residential housing, high-rise buildings, industries, boats, and others.",
+
+	"productos-negocio-4":"Tubería",
+	"productos-negocio-4-texto":"Tubería hidráulica que garantiza cero fugas, ya que fusiona las uniones y las convierte en una sola pieza de gran resistencia, gracias a su avanzado sistema de termofusión. Además, abarca una gran variedad de tubos, conexiones y herramientas para cubrir todas las necesidades de una instalación hidráulica en viviendas unifamiliares, de interés social y residenciales, edificios de altura, industrias, embarcaciones y otros.",
+
+	"productos-negocio-5":"Purification",
+	"productos-negocio-5-texto":"Rotoplas purification solutions such as filters and water purifiers feature state-of-the-art design and technology to provide purified and crystalline water, free of particles, soil, sediments, and heavy metals. This provides water that is ideal for drinking, cooking and preparing food.",
+
+	"productos-negocio-6":"Treatment",
+	"productos-negocio-6-texto":"These are alternatives designed to cover sanitation needs in backward areas, which contribute to raising the quality of life of the users by promoting hygienic spaces, in addition to promoting the development of small production units, as in the case of the Orchard-Type Agricultural Irrigation System.",
+
+	"productos-negocio-7":"Heating",
+	"productos-negocio-7-texto":"Solutions for water heating and energy and gas savings.",
+
+	"productos-tinaco":"Water tank",
+	"productos-cisterna":"Cistern",
+	"productos-captador-pluvial-rural":"Rural rainwater harvesting",
+	"productos-captador-pluvial-urbano":"Urban rainwater harvesting",
+	"productos-accesorios":"Rotoplas fittings",
+	"productos-tanques":"Tanks",
+	"productos-cisternas":"Cisterns",
+	"productos-accesorios-dispositivos":"Water conditioning device and fittings",
+	"productos-tanque":"Tanque",
+	"productos-tampoplas":"Tamboplas",
+	"productos-algibes":"Algibes",
+	"productos-sistema-captacion-pluvial":"Rainwater harvesting Systems",
+	"productos-accesorios-tanques":"Tank fittings",
+	"productos-tanque-almacenamiento":"Storage tank",
+	"productos-tanques-almacenamiento":"Inductor tanks",
+	"productos-tolvas":"Inductor tanks",
+	"productos-tanque-nodriza":"Horizontal leg tank",
+	"productos-comederos":"Feeders and troughs",
+	"productos-tanque-vertical-cerrado":"Closed vertical tank",
+	"productos-tanques-verticales-cerrados":"Closed vertical tank",
+	"productos-tanques-agua-interiores":"Indoor water tanks",
+	"productos-tanques-agua-exteriores":"Outdoor water tanks",
+	"productos-tanques-agua-horizontales":"Horizontal water tanks",
+	"productos-tanques-agua-antiincendio":"Fire-proof water tanks",
+	"productos-accesorios-banjo":"Banjo fittings",
+	"productos-tanque-bicapa":"Tanque Bicapa",
+	"productos-nodrizas":"Nodrizas",
+	"productos-tuboplus-hidraulico":"Hydraulic Tuboplus pipe (PP-R)",
+	"productos-tuboplus-alta-presion":"Tuboplus Alta Presión (PPR-CT)",
+	"productos-bombas":"Rotoplas pumps",
+	"productos-valvulas":"Valves",
+	"productos-tuboplus-ultraflex":"Tuboplus Ultraflex PEX-A",
+	"productos-tubos-conexiones":"Pipes and fittings",
+	"productos-linea-hidraulica-roscada":"Threaded hydraulic line",
+	"productos-herramientas":"Tools",
+	"productos-bombas-accesorios":"Pumps and fittings",
+	"productos-tuboplus":"Tuboplus",
+	"productos-contrallave":"2 in 1 Threadable Shut-off Tap",
+	"productos-purificador-sobre":"Hydro-Pur® Activated Carbon Purifier (On-sink)",
+	"productos-purificador-bajo":"Hydro-Pur® Activated Carbon Purifier (Below-sink)",
+	"productos-purificador-osmosis":"Reverse Osmosis Purifier",
+	"productos-purificador-alcalinizador":"Water purifier and alkalinizer",
+	"productos-filtro-refrigerador":"Fridge filter one year",
+	"productos-cartuchos":"Cartridges and Spare Parts for Rotoplas Filters",
+	"productos-filtros-purificadores":"Filters and purifiers",
+	"productos-biodigestor":"Self-cleaning Biodigester",
+	"productos-bano-humedo":"Outdoor toilet with biodigester",
+	"productos-huerto-familiar":"Family-Orchard-Type Agricultural Irrigation System",
+	"productos-biodigestor-autolimpiable":"Self-cleaning Biodigester",
+	"productos-biodigestores":"Biodigester",
+	"productos-fosa-septica":"Septic tank",
+	"productos-ecoducha":"EcoShower electric showerhead",
+	"productos-termas":"Heaters",
+	"productos-ducha-electrica":"Electric showerheads",
+
+	"productos-ver":"See product",
+
+
+
+	"// SERVICIOS":  "==============================================================",
+	"servicios-head-titulo":"More and better water for all",
+
+	"servicios-plantas":"Treatment plants",
+	"servicios-bebbia":"bebbia",
+	"servicios-bebederos":"Drinking fountains",
+	"servicios-rieggo":"Rieggo",
+	"servicios-plomerisimo":"Plomerisimo",
+
+	"servicios-plantas-titulo":"Water Treatment Plants",
+	"servicios-plantas-texto":"We generate ecological solutions for the treatment and reutilization of waste water, filtration and demineralization, as well as water purification. We serve the main segments: commercial, industrial, and municipal.",
+	"servicios-plantas-subtitulo":"The processes that we carry out with biological and chemical products, and their respective combination in projects of:",
+	"servicios-plantas-1":"Wastewater treatment",
+	"servicios-plantas-2":"Filtration",
+	"servicios-plantas-3":"Purification",
+	"servicios-plantas-4":"Desalination",
+	"servicios-plantas-5":"Process water",
+	"servicios-plantas-6":"Water Ingredient",
+	"servicios-plantas-7":"We offer customized water treatment solutions ranging from maintenance and operation to design and construction.",
+
+	"servicios-plantas-8":"The impact of these solutions is:",
+	"servicios-plantas-9":"Economic: Saving drinking water.",
+	"servicios-plantas-10":"Operational: Fostering a sustainable economy.",
+	"servicios-plantas-11":"Ecological: Promotion of environmental balance (reduction of waste water discharges into drainage and water bodies).",
+	"servicios-plantas-12":"Safety: In compliance with Mexican and international standards.",
+
+	"servicios-bebbia-1":"Bebbia® is the ready-to-drink Purified Water Service focused on corporate and residential sectors.",
+	"servicios-bebbia-2":"We seek to change the way people drink water in Mexico, offering a sustainable, convenient, reliable solution offering end-to-end support.",
+
+	"servicios-bebbia-residencial":"Bebbia Residential",
+	"servicios-bebbia-residencial-texto":"We believe that we must change the paradigm of drinking water, return to sustainable and reliable solutions for drinking water directly from the tap and with the quality and safety to do so. That's why bebbia offers a comprehensive rental service in which you will have 100% purified water.",
+
+	"servicios-bebbia-corporativo":"Bebbia Business",
+	"servicios-bebbia-corporativo-texto":"Purified water service for corporate customers through a variety of purification technologies that offer 100% reliable, ready-to-drink water. We offer customized support for our clients.",
+
+	"servicios-bebederos-1":"A drinking water solution that seeks to change the way we hydrate.",
+	"servicios-bebederos-2":"We have a wide catalog of products and services that adapt to different needs, considering height, design, flow, and type of users, water quality, available space, etc.",
+
+	"servicios-bebederos-maguey":"Maguey drinking fountains",
+	"servicios-bebederos-multitarja":"Multi-tap drinking fountain",
+	"servicios-bebederos-slim":"Slim drinking fountain",
+
+	"servicios-rieggo-1":"It provides disruptive hydraulic solutions for the agricultural sector, with the aim of efficiently managing water use and improving crop yields.",
+
+	"servicios-plomerisimo-1":"Installation service, maintenance for storage systems, in a simple, fast and reliable way.",
+
+	"servicios-ver-producto":"See product",
+	"servicios-conoce-mas":"Learn more",
+
+
+
+	"":""
+}

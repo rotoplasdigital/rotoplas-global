@@ -1,4 +1,9 @@
-#nuestra-historia-header {
+#historia-fondo {
+    background: url(/images/historia/fondo.jpg) no-repeat bottom center;
+    background-size: 100% auto;
+}
+
+#header {
     height: 750px;
     background: #002554;
     color: #fff;

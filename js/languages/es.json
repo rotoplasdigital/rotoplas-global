@@ -1,0 +1,306 @@
+{
+	"@metadata": {
+		"authors": [
+            "DML",
+			"Jorge Arguelles"
+		],
+		"last-updated": "2022-07-20",
+		"locale": "es",
+		"message-documentation": "qqq",
+		"AnotherMetadata": "AnotherMedatadataValue"
+	},
+
+
+
+	"// MENU":  "==============================================================",
+	"menu-region-1": "Estás en nuestro sitio global",
+	"menu-region-2": "México",
+	"menu-region-3": "Centroamérica",
+	"menu-region-4": "Argentina",
+	"menu-region-5": "Perú",
+	"menu-region-6": "Brasil",
+	"menu-region-7": "USA",
+
+	"menu-unete": "Unete al equipo",
+
+	"menu-contacto": "Contacto",
+
+	"menu-lenguaje-1":"Español",
+	"menu-lenguaje-2":"English",
+	"menu-lenguaje-3":"Português",
+
+	"menu-nosotros":"Nosotros",
+	"menu-historia":"Nuestra historia",
+	"menu-compromisos":"Compromisos y certificaciones",
+	"menu-quienes":"¿Quiénes Somos?",
+
+	"menu-soluciones":"Soluciones",
+	"menu-productos":"Productos",
+	"menu-servicios":"Servicios",
+
+	"menu-marcas":"Nuestras Marcas",
+	"menu-sala":"Sala de prensa",
+	"menu-sustentabilidad":"Sustentabilidad",
+	"menu-inversionistas":"Inversionistas",
+	"menu-innovacion":"Innovación",
+
+	"menu-direccion":"Dirección: Torre Virreyes, Calle Pedregal #24 Piso 19. Col. Molino del Rey; Delegación Miguel Hidalgo, C.P. 11040, Ciudad de México, México",
+
+	"menu-presencia":"Presencia global",
+	"menu-navega":"Navega en el sitio",
+	"menu-siguenos":"Síguenos",
+
+	"menu-politica":"Política de privacidad",
+	"menu-privacidad":"Seguridad de la información",
+
+
+
+	"// EXPLORA":  "==============================================================",
+	"explora-titulo":"Explora estas secciones que pueden ser de tu interés",
+	"explora-historia":"Nuestra Historia",
+	"explora-compromisos":"Compromisos y<br>certificaciones",
+
+
+
+	"// INICIO":  "==============================================================",
+	"inicio-titulo":"Rotoplas Global - Inicio",
+
+	"inicio-slider-1-1-titulo":"Grupo Rotoplas, una empresa de soluciones de agua",
+	"inicio-slider-1-1-texto":"Desde hace más de cuatro décadas, tenemos como misión llevar más y mejor agua a la gente, para contribuir a mejorar la calidad de vida de las personas; por ello, día con día, nos enfocamos en crear soluciones innovadoras y sustentables.",
+
+	"inicio-slider-1-2-titulo":"Ser sustentables para garantizar el acceso a agua para generaciones futuras",
+	"inicio-slider-1-2-texto":"Ser sustentable significa: contribuir a llevar más y mejor agua, creando valor económico, social y ambiental, a través de nuestras soluciones.",
+
+	"inicio-slider-1-3-titulo":"Innovamos constantemente en nuestras soluciones para aprovechar cada gota",
+	"inicio-slider-1-3-texto":"A través de la investigación, la tecnología y la colaboración creamos soluciones de agua que ayuden a resolver las problemáticas en temas hídricos en las localidades donde operamos.",
+
+	"inicio-mas-titulo":"Más y mejor agua",
+	"inicio-mas-p1":"Nuestros productos y servicios nos posicionan como una compañía global sólida y clave en la provisión de agua y saneamiento, con soluciones presentes a lo largo del ciclo del agua.",
+	"inicio-mas-p2":"Almacenamos, Conducimos, Purificamos, Tratamos y reintegramos este vital líquido.",
+	"inicio-mas-btn":"Conoce nuestras soluciones",
+
+	"inicio-slider-2-1-titulo":"Rotoplas, primera vez incluida en Sustainability Yearbook 2022 de S&P Global",
+	"inicio-slider-2-1-btn":"Conocer más",
+
+
+
+	"// HISTORIA":  "==============================================================",
+	"historia-header-titulo":"Una historia motivada por el agua",
+	"historia-header-texto":"Hace 40 años innovamos en la manera de almacenar agua, hoy continuamos generando soluciones que ayuden a cuidar de este líquido con especificaciones de acuerdo con las necesidades de cada país e industria. Conoce nuestra historia:",
+
+	"historia-linea-titulo":"Nuestra Historia",
+	
+	"historia-linea-1978-1":"Nace Rotoplas",
+	"historia-linea-1989-1":"Se lanza el primer tinaco de polietileno",
+	"historia-linea-1995-1":"Se comercializan dos líneas de productos en 3 mil puntos de venta en México con 8 plantas",
+	"historia-linea-1996-1":"Inicia la expansión internacional con una planta de producción en Guatemala",
+	"historia-linea-1999-1":"Se crea el Centro de Investigación y Desarrollo (CID) y se incrementa el portafolio de productos (purificadores, bombas y filtros)",
+	"historia-linea-2003-1":"Se lanza la marca Tuboplus",
+	"historia-linea-2008-1":"Se empieza a implemetntar el sistema ERP SAP en todos los países como parte de una estrategia para optimizar procesos internos",
+	"historia-linea-2009-1":"Lanzamiento de línea Rotoplas Bio",
+	"historia-linea-2009-2":"Se crea el Centro De Servicios Compartidos",
+	"historia-linea-2010-1":"El grupo de accionistas adquiere la participación Aqua International Partners",
+	"historia-linea-2013-1":"Se introducen al mercado el bebedero escolar, las plantas purificadoras de agua y las plantas de tratamiento de aguas residuales",
+	"historia-linea-2014-1":"Salida a la Bolsa Mexicana de Valores bajo la clave de pizarra AGUA",
+	"historia-linea-2015-1":"Se incursiona por primera vez en el mercado de los Estados Unidos",
+	"historia-linea-2016-1":"Talsar, S.A. en Argentina es adquirida para fortalecer las soluciones individuales en la región.",
+	"historia-linea-2016-2":"Adquisición del centro de innovación chileno Advanced Innovation Center LLC, reafirmando el compromiso con la innovación.",
+	"historia-linea-2016-3":"Integración de Sytesa a Grupo Rotoplas, como parte de una estrategia para amplíar el portafolio del grupo, con el diseño, operación y mantenimiento de plantas de tratamiento y reciclaje de agua.",
+	"historia-linea-2017-1":"Se emite exitosamente el primer Bono Sustentable de Latinoamérica.",
+	"historia-linea-2017-2":"Rotoplas compra Sanzfield Technologies Inc. en Canadá, para robustecer las tecnologías en purificación de agua, asegurando agua de calidad.",
+	"historia-linea-2017-3":"Ingreso al índice del Dow Jones Sustainability MILA Pacific Alliance, iniciativa que busca medir el desempeño de compañías que son consideradas las mejores de su clase.",
+	"historia-linea-2018-1":"Como parte de la estrategia de sustentabilidad se Adquieren  paneles solares para las principales plantas en México y que de esta manera se contribuya con mejores prácticas ambientales.",
+	"historia-linea-2018-2":"Se realiza la adquisición de IPS, empresa líder de conducción de agua en Argentina.",
+	"historia-linea-2018-3":"Lanzamiento de bebedero 4.0 (slim).",
+	"historia-linea-2019-1":"Nombramiento de Carlos Rojas Aboumrad como CEO de Grupo Rotoplas.",
+	"historia-linea-2019-2":"Se da a conocer formalmente, bebbia, servicio de purificación residencial y corporativo, como una nueva experiencia para beber agua e impulsar estilos de vida convenientes y confiables.beber agua e impulsar estilos de vida convenientes y confiables.",
+
+
+
+	"// COMPROMISOS":  "==============================================================",
+	"compromisos-head-titulo":"Compromisos y Certificaciones",
+	"compromisos-head-texto":"En Rotoplas nuestro compromiso por brindar más y mejor agua para todos, nos ha llevado a realizar alianzas con instituciones, certificarnos y ser reconocidos por organizaciones internaciones.",
+
+	"compromisos-miembros":">Miembros de:",
+	"compromisos-certificaciones":"Certificaciones:",
+	"compromisos-reconocimientos":"Reconocimientos:",
+	"compromisos-inscritos":"Inscritos:",
+
+
+
+	"// QUIENES":  "==============================================================",
+	"quienes-head-titulo":"Somos soluciones de agua",
+	"quienes-head-1":"Somos una empresa apasionada por el cuidado y uso responsable del agua, que ofrece productos y servicios de almacenamiento, conducción, purificación y tratamiento del agua. Líderes en América y de origen mexicano, con una tradición que nos impulsa a crecer sostenidamente y a traspasar fronteras.<br>Desde hace más de cuatro décadas, nos hemos enfocado en crear soluciones que faciliten el tener más y mejor agua.",
+	"quienes-head-2":"Nuestra pasión es innovar y desarrollar nuevas tecnologías que nos permitan brindar soluciones de agua individuales y con servicio de alta calidad y máxima garantía, acorde a las necesidades hídricas que presenta cada país, industria y cliente.",
+
+	"quienes-texto":"Desde hace cuatro años hemos decidido trabajar en nuestra Estrategia de Sustentabilidad alineada con los Objetivos de Desarrollo Sostenible (ODS) de Naciones Unidas. De esta manera contribuimos al ODS 6 “Agua limpia y saneamiento” y al ODS 9 “Industria, innovación e infraestructura” desde el enfoque del impacto de las soluciones de agua y el desarrollo de infraestructura, más allá del desempeño operacional.",
+
+	"quienes-mision":"MISIÓN",
+	"quienes-mision-texto":"Que la gente tenga más y mejor agua.",
+	"quienes-vision":"VISIÓN",
+	"quienes-vision-texto":"Ser una empresa global referente a soluciones de agua, individuales y comunitarias, que basa sus logros viviendo el Estilo Rotoplas.",
+	"quienes-proposito":"PROPÓSITO",
+	"quienes-proposito-texto":"Existimos para transformar la calidad de vida de todos asegurando el mejor aprovechamiento del agua.",
+
+	"quienes-numeralia-titulo":"Quienes Somos",
+	"quienes-numeralia-1":"Presencia en 14 paises",
+	"quienes-numeralia-2":"Líneas de producto",
+	"quienes-numeralia-3":"Plantas",
+	"quienes-numeralia-4":"Centros de distribución",
+	"quienes-numeralia-5":"Colaboradores",
+	"quienes-numeralia-6":"Distribuidores",
+	"quienes-numeralia-7":"Puntos de venta",
+	"quienes-numeralia-8":"Puntos de servicio",
+
+	"quienes-innovacion-1":"La innovación es parte de nuestro ADN por lo que cada año destinamos un presupuesto para el área de Investigación y Desarrollo.",
+	"quienes-innovacion-2":"Somos el primer emisor corporativo de México emitir el primer bono sustentable, el cual estaba destinado al impulso de proyectos relacionados con el agua. El año pasado reafirmamos nuestro compromiso con este tipo de acciones y decidimos hacer una reapertura del bono.",
+
+
+
+	"// MARCAS":  "==============================================================",
+	"marcas-head-title":"Somos Grupo Rotoplas",
+	"marcas-head-text":"Nuestro crecimiento nos ha permitido ir sumando empresas y crear nuevas marcas para fortalecer nuestra oferta de valor,consolidándonos como una empresa de soluciones de agua.",
+
+
+
+	"// PRODUCTOS":  "==============================================================",
+	"productos-head-titulo":"Soluciones de Agua",
+	"productos-head-texto":"Ofrecemos un amplio portafolio de productos y servicios, que facilitan la gestión del agua y llegan a los usuarios finales a través de diversos canales",
+
+	"productos-region-1":"México",
+	"productos-region-2":"Argentina",
+	"productos-region-3":"Perú",
+	"productos-region-4":"Centroamérica",
+
+	"productos-negocio-1":"Almacenamiento",
+	"productos-negocio-1-texto":"Esta línea de productos está diseñada para el almacenamiento de agua en grandes volúmenes, cubriendo distintas necesidades de abastecimiento.",
+
+	"productos-negocio-2":"Agroindustria",
+	"productos-negocio-2-texto":"Soluciones para el campo y la industria en almacenamiento, transporte y conducción de agua, alimentos y sustancias químicas.",
+
+	"productos-negocio-3":"Conducción",
+	"productos-negocio-3-texto":"Tubería hidráulica que garantiza cero fugas, ya que fusiona las uniones y las convierte en una sola pieza de gran resistencia, gracias a su avanzado sistema de termofusión. Además, abarca una gran variedad de tubos, conexiones y herramientas para cubrir todas las necesidades de una instalación hidráulica en viviendas unifamiliares, de interés social y residenciales, edificios de altura, industrias, embarcaciones y otros.",
+
+	"productos-negocio-4":"Tubería",
+	"productos-negocio-4-texto":"Tubería hidráulica que garantiza cero fugas, ya que fusiona las uniones y las convierte en una sola pieza de gran resistencia, gracias a su avanzado sistema de termofusión. Además, abarca una gran variedad de tubos, conexiones y herramientas para cubrir todas las necesidades de una instalación hidráulica en viviendas unifamiliares, de interés social y residenciales, edificios de altura, industrias, embarcaciones y otros.",
+
+	"productos-negocio-5":"Purificación",
+	"productos-negocio-5-texto":"Las soluciones de purificación de Rotoplas como los filtros y purificadores de agua cuentan con diseño y tecnología de vanguardia para proveer agua purificada y cristalina, libre de partículas, tierra, sedimentos y metales pesados. De esta forma se cuenta con agua ideal para beber, cocinar y preparar alimentos.",
+
+	"productos-negocio-6":"Tratamiento",
+	"productos-negocio-6-texto":"Estas son alternativas diseñadas para cubrir necesidades de saneamiento en áreas de rezago, las cuales contribuyen a elevar la calidad de vida de los usuarios propiciando espacios de higiene, además de favorecer el desarrollo de pequeñas unidades de producción como en el caso del Sistema para Riego Agrícola tipo Huerto Familiar.",
+
+	"productos-negocio-7":"Calentamiento",
+	"productos-negocio-7-texto":"Soluciones para el calentamiento del agua y el ahorro de energía y gas.",
+
+	"productos-tinaco":"Tinaco",
+	"productos-cisterna":"Cisterna",
+	"productos-captador-pluvial-rural":"Captador Pluvial Rural",
+	"productos-captador-pluvial-urbano":"Captador Pluvial Urbano",
+	"productos-accesorios":"Accesorios Rotoplas",
+	"productos-tanques":"Tanques",
+	"productos-cisternas":"Cisternas",
+	"productos-accesorios-dispositivos":">Accesorios y Dispositivo de Acondicionamiento de Agua",
+	"productos-tanque":"Tanque",
+	"productos-tampoplas":"Tamboplas",
+	"productos-algibes":"Algibes",
+	"productos-sistema-captacion-pluvial":"Sistema de captación pluvial",
+	"productos-accesorios-tanques":"Accesorios de Tanques",
+	"productos-tanque-almacenamiento":"Tanque de almacenamiento",
+	"productos-tanques-almacenamiento":"Tanques de almacenamiento",
+	"productos-tolvas":"Tolvas",
+	"productos-tanque-nodriza":"Tanque Nodriza",
+	"productos-comederos":"Comederos y Bebederos",
+	"productos-tanque-vertical-cerrado":"Tanque Vertical Cerrado",
+	"productos-tanques-verticales-cerrados":"Tanques Verticales Cerrados",
+	"productos-tanques-agua-interiores":"Tanques de agua para interiores",
+	"productos-tanques-agua-exteriores":"Tanques de agua para exteriores",
+	"productos-tanques-agua-horizontales":"Tanques de agua horizontales",
+	"productos-tanques-agua-antiincendio":"Tanques de agua anti incendio",
+	"productos-accesorios-banjo":"Accesorios Banjo",
+	"productos-tanque-bicapa":"Tanque Bicapa",
+	"productos-nodrizas":"Nodrizas",
+	"productos-tuboplus-hidraulico":"Tuboplus Hidráulico (PP-R)",
+	"productos-tuboplus-alta-presion":"Tuboplus Alta Presión (PPR-CT)",
+	"productos-bombas":"Bombas Rotoplas",
+	"productos-valvulas":"Válvulas",
+	"productos-tuboplus-ultraflex":"Tuboplus Ultraflex PEX-a",
+	"productos-tubos-conexiones":"Tubos y conexiones",
+	"productos-linea-hidraulica-roscada":"Línea Hidráulica Roscada",
+	"productos-herramientas":"Herramientas",
+	"productos-bombas-accesorios":"Bombas y accesorios",
+	"productos-tuboplus":"Tuboplus",
+	"productos-contrallave":"Contrallave Válvula de Control Roscable 2 en 1",
+	"productos-purificador-sobre":"Purificador Hydro-Pur® de Carbón Activado (Sobre-Tarja)",
+	"productos-purificador-bajo":"Purificador Hydro-Pur® de Carbón Activado (Bajo-Tarja)",
+	"productos-purificador-osmosis":"Purificador de Osmosis Inversa",
+	"productos-purificador-alcalinizador":"Purificador y Alcalinizador",
+	"productos-filtro-refrigerador":"Filtro de Refrigerador un año",
+	"productos-cartuchos":"Cartuchos y Repuestos para Filtros Rotoplas",
+	"productos-filtros-purificadores":"Filtros y Purificadores",
+	"productos-biodigestor":"Biodigestor",
+	"productos-bano-humedo":"Baño Húmedo",
+	"productos-huerto-familiar":"Sistema para Riego Agrícola tipo Huerto Familiar",
+	"productos-biodigestor-autolimpiable":"Biodigestor Autolimpiable",
+	"productos-biodigestores":"Biodigestores",
+	"productos-fosa-septica":"Fosa Séptica",
+	"productos-ecoducha":"EcoDucha Regadera Eléctrica",
+	"productos-termas":"Termas",
+	"productos-ducha-electrica":"Ducha eléctrica",
+
+	"productos-ver":"Ver producto",
+
+
+
+	"// SERVICIOS":  "==============================================================",
+	"servicios-head-titulo":"Más y mejor agua para todos",
+
+	"servicios-plantas":"Plantas de tratamiento",
+	"servicios-bebbia":"bebbia",
+	"servicios-bebederos":"Bebederos",
+	"servicios-rieggo":"Rieggo",
+	"servicios-plomerisimo":"Plomerisimo",
+
+	"servicios-plantas-titulo":"Plantas de tratamiento de agua",
+	"servicios-plantas-texto":"Generamos soluciones ecológicas para el tratamiento y reutilización de agua residual, potabilización y desmineralización, así como la purificación del agua. Atendemos los principales segmentos: comercial, industrial y municipal.",
+	"servicios-plantas-subtitulo":"Los procesos que realizamos con biológicos, químicos y su respectiva combinación en proyectos de:",
+	"servicios-plantas-1":"Tratamiento de aguas residuales",
+	"servicios-plantas-2":"Potabilización",
+	"servicios-plantas-3":"Purificación",
+	"servicios-plantas-4":"Desalinización",
+	"servicios-plantas-5":"Agua de proceso",
+	"servicios-plantas-6":"Agua Ingrediente",
+	"servicios-plantas-7":"Ofrecemos soluciones personalizadas para el tratamiento de agua con un alcance desde el mantenimiento y operación, hasta el diseño, y construcción.",
+	"servicios-plantas-8":"El impacto que representan estas soluciones es:",
+	"servicios-plantas-9":"Económico: Ahorro de agua potable",
+	"servicios-plantas-10":"Operativo: Impulso a economía sostenible.",
+	"servicios-plantas-11":"Ecológico: Fomento al equilibrio ambiental (reducción de descargas de agua residual a drenaje y cuerpos de agua)",
+	"servicios-plantas-12":"Seguridad: Bajo el cumplimiento de normas mexicanas e internacionales",
+
+	"servicios-bebbia-1":"Bebbia® es el Servicio de Agua Purificada lista para beber, enfocada a corporativo y residencial.",
+	"servicios-bebbia-2":"Buscamos cambiar la forma de tomar agua en México, ofreciendo una solución sustentable, conveniente, confiable y con un acompañamiento de principio a fin.",
+
+	"servicios-bebbia-residencial":"Bebbia residencial",
+	"servicios-bebbia-residencial-texto":"Creemos que debemos cambiar el paradigma de beber agua, regresar a soluciones sustentables y confiables para tomar agua directo del grifo y con la calidad y seguridad para hacerlo. Por eso bebbia ofrece un servicio integral de renta en cual tendrás agua 100% purificada.",
+
+	"servicios-bebbia-corporativo":"Bebbia corporativo",
+	"servicios-bebbia-corporativo-texto":"Servicio de agua purificada para corporativos a través de diversas tecnologías de purificación que ofrecen agua 100% confiable y lista para beber. Ofrecemos un acompañamiento personalizado para nuestros clientes.",
+
+	"servicios-bebederos-1":"Solución de agua para beber que busca cambiar nuestra forma de hidratarnos.",
+	"servicios-bebederos-2":"Contamos con un amplio catálogo de productos y servicios que se ajustan a diferentes requerimientos considerando altura, diseño, flujo y tipo de usuarios, calidad de agua, espacio disponible, etc.",
+
+	"servicios-bebederos-maguey":"Bebederos maguey",
+	"servicios-bebederos-multitarja":"Bebederos multitarja",
+	"servicios-bebederos-slim":"Bebedero slim",
+
+	"servicios-rieggo-1":"Provee soluciones hidráulicas disruptivas para el sector agrícola, con el objetivo de gestionar eficientemente el uso del agua y mejorar el rendimiento de los cultivos.",
+
+	"servicios-plomerisimo-1":"Servicio de instalación, mantenimiento para sistemas de almacenamiento, esto de manera sencilla, rápida y confiable.",
+
+	"servicios-ver-producto":"Ver producto",
+	"servicios-conoce-mas":"Conoce más",
+
+
+
+	"":""
+}
