@@ -159,5 +159,30 @@
 			<script src="/js/jquery.i18n.emitter.bidi.js"></script>
 			<!-- script -->
             <script src="http://127.0.0.1:5500/js/app.js"></script>
+			<script>
+				/* ==============================================================
+				/*	GOOGLE SHEETS
+				/* ============================================================== */
+					// ID // AKfycbyjZq7bTLfswmIIVhb2DUlKINnFlct2Bc9laBt01WQqE6-ZPxRQJY12HGMb_UPJriYEtw
+					const scriptURL = 'https://script.google.com/macros/s/AKfycbyjZq7bTLfswmIIVhb2DUlKINnFlct2Bc9laBt01WQqE6-ZPxRQJY12HGMb_UPJriYEtw/exec'
+					const form = document.forms['formulario-contacto']
+					form.addEventListener('submit', e => {
+						e.preventDefault()
+						var today = new Date();
+						var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+						var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+						document.getElementById('fecha').value = date
+						document.getElementById('hora').value = time
+						fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+							.then(response => console.log('Success!', response))
+							.then(function(){
+								document.getElementById("formulario-contacto").reset()
+								document.getElementById('form-thank').classList.remove('d-none')
+							})
+							.catch(error => console.error('Error!', error.message))
+						//e.currentTarget.submit()
+					})
+				/* google sheets */
+			</script>
 	</body>
 </html>
